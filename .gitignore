@@ -1,0 +1,5 @@
+#by adding the symbol # i can comment the line out
+#if i want to ignore files and not to be included in the stagging area 
+#i just have to type the files name in here without the # infront
+secrets.txt
+file3.txt
